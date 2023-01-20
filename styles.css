@@ -1,0 +1,26 @@
+#seconds_div{
+    height: 50px;
+    width: 50px;
+    border: 4px;
+    border-style: solid;
+    text-align: center;
+    
+}
+#outer{
+    display: flex;
+    flex-direction: row-reverse;
+}
+#minutes_div{
+    height: 50px;
+    width: 50px;
+    border: 4px;
+    border-style: solid;
+    text-align: center; 
+}
+#hour_div{
+    height: 50px;
+    width: 50px;
+    border: 4px;
+    border-style: solid;
+    text-align: center; 
+}
